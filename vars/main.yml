@@ -82,7 +82,7 @@ nginx_freebsd_dependencies: [
 
 # Default locations and versions when 'nginx_install_from' is set to 'source'
 pcre_version: pcre-8.45
-zlib_version: zlib-1.2.11
+zlib_version: zlib-1.2.12
 openssl_version: openssl-1.1.1m
 
 # Supported NGINX Open Source dynamic modules
